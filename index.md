@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Welcome to Harnoor's Online Portfolio
-## Header 2
-### Header 3
+## About me
+### Qualifications
 
 - Bulleted
 - List
